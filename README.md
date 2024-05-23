@@ -19,3 +19,9 @@ To run the project locally, follow these steps:
 3. Run the `main` function in the `OnlineShop` class to start the application.
 
 ## Usage Example
+
+![Screenshot 2024-05-23 at 5 50 47 PM](https://github.com/VadymMakohon/Shopping-platform/assets/138728243/21b6e114-12b6-4c62-8db8-628b7b108c41)
+
+# Contributors
+
+- [Vadym Makohon](https://github.com/VadymMakohon)
